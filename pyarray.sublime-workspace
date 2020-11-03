@@ -1,0 +1,1038 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"coroutine\tfunction"
+			],
+			[
+				"dam",
+				"daemon=\tparam"
+			],
+			[
+				"tr",
+				"thread_id\tstatement"
+			],
+			[
+				"th",
+				"thread_count"
+			],
+			[
+				"get",
+				"get_partial\tfunction"
+			],
+			[
+				"run",
+				"run_one_thread\tfunction"
+			],
+			[
+				"awa",
+				"AWAIT\tfunction"
+			],
+			[
+				"pik",
+				"pickled\tstatement"
+			],
+			[
+				"pic",
+				"pickled\tstatement"
+			],
+			[
+				"ex",
+				"expected\tfunction"
+			],
+			[
+				"pro",
+				"protocol=\tparam"
+			],
+			[
+				"obj",
+				"object\tstatement"
+			],
+			[
+				"redu",
+				"reducer_override\tfunction"
+			],
+			[
+				"Co",
+				"CoroutineType\tstatement"
+			],
+			[
+				"typ",
+				"typing\tmodule"
+			],
+			[
+				"pli",
+				"_pickler\tstatement"
+			],
+			[
+				"name",
+				"namespace\tstatement"
+			],
+			[
+				"_",
+				"__name__\tinstance"
+			],
+			[
+				"ser",
+				"serialized_coroutine\tstatement"
+			],
+			[
+				"ass",
+				"assignment"
+			],
+			[
+				"len",
+				"len_names\tstatement"
+			],
+			[
+				"gets",
+				"getsourcelines\tfunction"
+			],
+			[
+				"mo",
+				"modules"
+			],
+			[
+				"re",
+				"return\tkeyword"
+			],
+			[
+				"_ge",
+				"_GETTATTR_COUNT\tstatement"
+			],
+			[
+				"names",
+				"names_count\tstatement"
+			],
+			[
+				"na",
+				"names\tstatement"
+			],
+			[
+				"se",
+				"self\tparam"
+			],
+			[
+				"assertRa",
+				"assertRaisesRegex\tfunction"
+			],
+			[
+				"_sear",
+				"_search_recursively\tfunction"
+			],
+			[
+				"atr",
+				"attributes\tstatement"
+			],
+			[
+				"asser",
+				"assertRaises\tfunction"
+			],
+			[
+				"Ex",
+				"ExpressionType\tstatement"
+			],
+			[
+				"Bas",
+				"BaseMeta\tclass"
+			],
+			[
+				"parti",
+				"partial\tclass"
+			],
+			[
+				"num",
+				"numset\tmodule"
+			],
+			[
+				"from",
+				"from_bytecode\tfunction"
+			],
+			[
+				"t",
+				"title\tstatement"
+			],
+			[
+				"inde",
+				"index=\tparam"
+			],
+			[
+				"back_p",
+				"back_populates=\tparam"
+			],
+			[
+				"defa",
+				"default=\tparam"
+			],
+			[
+				"uni",
+				"unique=\tparam"
+			],
+			[
+				"ind",
+				"index=\tparam"
+			],
+			[
+				"prim",
+				"primary_key=\tparam"
+			],
+			[
+				"rela",
+				"relationship\tstatement"
+			],
+			[
+				"bin",
+				"bind=\tparam"
+			],
+			[
+				"sl",
+				"SQLALCHEMY_DATABASE_URL\tstatement"
+			],
+			[
+				"Dict",
+				"TypedDict\tclass"
+			],
+			[
+				"jum",
+				"JUMP_FORWARD"
+			],
+			[
+				"bye",
+				"bytecode\tmodule"
+			],
+			[
+				"byte",
+				"bytecode\tmodule"
+			],
+			[
+				"const",
+				"constraints"
+			],
+			[
+				"ne",
+				"next_op_code\tstatement"
+			],
+			[
+				"byt",
+				"byte_code\tparam"
+			],
+			[
+				"new",
+				"new_bytecode\tstatement"
+			],
+			[
+				"member",
+				"member_1"
+			],
+			[
+				"templ",
+				"template_2\tstatement"
+			],
+			[
+				"constr",
+				"constraint"
+			],
+			[
+				"var",
+				"varnames"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"iter",
+				"itertools\tmodule"
+			],
+			[
+				"or",
+				"ordered\tstatement"
+			],
+			[
+				"start",
+				"start_label\tstatement"
+			],
+			[
+				"NEW",
+				"new_end_label\tstatement"
+			],
+			[
+				"old",
+				"old_end_label\tstatement"
+			],
+			[
+				"list",
+				"list_bytecode"
+			],
+			[
+				"ob",
+				"obtained\tstatement"
+			],
+			[
+				"By",
+				"BytecodeListType\tstatement"
+			],
+			[
+				"by",
+				"bytecode\tmodule"
+			],
+			[
+				"op",
+				"opname\tstatement"
+			],
+			[
+				"asse",
+				"assertEqual\tfunction"
+			],
+			[
+				"i",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"rec",
+				"recvfrom\tfunction"
+			],
+			[
+				"SOCK_S",
+				"SOCK_STREAM\tstatement"
+			],
+			[
+				"SOCK",
+				"socket\tmodule"
+			],
+			[
+				"stati",
+				"statistics\tmodule"
+			],
+			[
+				"threa",
+				"threads\tparam"
+			],
+			[
+				"send",
+				"send_requests\tfunction"
+			],
+			[
+				"Key",
+				"KeyboardInterrupt\tclass"
+			],
+			[
+				"thre",
+				"threads\tstatement"
+			],
+			[
+				"py",
+				"pyflakes"
+			],
+			[
+				"P",
+				"Process\ttype ⟠"
+			],
+			[
+				"SIg",
+				"SIGTERM\tSignals | int ⟠"
+			],
+			[
+				"sig",
+				"signalnum\tparam"
+			],
+			[
+				"__",
+				"__name__ == str and\t★ ⟠"
+			],
+			[
+				"__get",
+				"__getitem__\tfunction"
+			],
+			[
+				"Argu",
+				"ArgumentParser\tclass"
+			],
+			[
+				"has",
+				"has_closure\tbool ⟠"
+			],
+			[
+				"assertNot",
+				"assertNotEqual\tfunction ⟠"
+			],
+			[
+				"modul",
+				"modulename\t⟠"
+			],
+			[
+				"_c",
+				"_scheduler\tstatement"
+			],
+			[
+				"Mul",
+				"multiprocessing\tmodule ⟠"
+			],
+			[
+				"Sto",
+				"StopAsyncIteration\ttype ⟠"
+			],
+			[
+				"call",
+				"call_next\t⟠"
+			],
+			[
+				"client",
+				"client()\tfunction ⟠"
+			],
+			[
+				"Conne",
+				"ConnectionResetError\ttype ⟠"
+			],
+			[
+				"Class",
+				"class\tkeyword"
+			],
+			[
+				"tok",
+				"token_type"
+			],
+			[
+				"acc",
+				"access_token_expires\ttimedelta ⟠"
+			],
+			[
+				"pass",
+				"password\tstatement"
+			],
+			[
+				"user",
+				"username\tstatement"
+			],
+			[
+				"form",
+				"form_data\t⟠"
+			],
+			[
+				"cre",
+				"credentials_exceptions\t⟠"
+			],
+			[
+				"use",
+				"username\tstr ⟠"
+			],
+			[
+				"Tok",
+				"TokenData\ttype ⟠"
+			],
+			[
+				"algo",
+				"algorithms=\tparam"
+			],
+			[
+				"header",
+				"headers=\tparam"
+			],
+			[
+				"end",
+				"encoded_jwt\tstatement"
+			],
+			[
+				"jw",
+				"jwt\tmodule"
+			],
+			[
+				"JW",
+				"JWTError\tclass"
+			],
+			[
+				"get_cu",
+				"get_current_active_user(…)\tfunction ⟠"
+			],
+			[
+				"fake",
+				"fake_hash_password(…)\tfunction ⟠"
+			],
+			[
+				"Base",
+				"BaseModel\tclass"
+			],
+			[
+				"O",
+				"OAuth2PasswordRequestForm\tclass"
+			],
+			[
+				"OA",
+				"OAuth2PasswordBearer\tclass"
+			],
+			[
+				"ins",
+				"instructions\tlist ⟠"
+			],
+			[
+				"Loa",
+				"LOAD_GLOBAL"
+			],
+			[
+				"ar",
+				"argval\tstatement"
+			],
+			[
+				"_S",
+				"_SkipBlock\tclass"
+			],
+			[
+				"f",
+				"function\t⟠"
+			],
+			[
+				"dep",
+				"dependency_b(…)\tfunction ⟠"
+			],
+			[
+				"query",
+				"query_or_default\tstr ⟠"
+			],
+			[
+				"upda",
+				"updated_item\t⟠"
+			],
+			[
+				"up",
+				"updated_item\t⟠"
+			],
+			[
+				"stored_item",
+				"stored_item_model\tItem ⟠"
+			],
+			[
+				"upa",
+				"update_item_encoded\t⟠"
+			],
+			[
+				"upd",
+				"update_item_encoded\t⟠"
+			],
+			[
+				"Item",
+				"item_id\tstr ⟠"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 35,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"satis",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"blak",
+				"Sublack: Start Blackd Server"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"sublimerepl: py",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"them",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"terminus",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"theme",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"termiu",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"termnus",
+				"Terminus Utilities: Generate User Theme"
+			],
+			[
+				"term",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"terminu",
+				"Terminus Utilities: Generate User Theme"
+			],
+			[
+				"shell",
+				"Terminus: List Shells"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"termn",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"pakc",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"pal",
+				"Package Control: List Packages"
+			],
+			[
+				"remve",
+				"Package Control: Remove Package"
+			],
+			[
+				"mark",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"inst\t",
+				"Package Control: Install Package"
+			],
+			[
+				"instal\t",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"def f(x, y): return (x, y)",
+			"def f(x, y): return x, y",
+			"def f(x, y):",
+			"exit()",
+			"sys.version",
+			"import sys",
+			"print(\"hola\")",
+			"1 + 1"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Ruiz/pyarray"
+	],
+	"file_history":
+	[
+		"/C/Users/Ruiz/Downloads/sustos_ram.txt",
+		"/C/Users/Ruiz/colors/temp.diff",
+		"/C/Users/Ruiz/colors/ranges_pu_hsl.py",
+		"/C/Users/Ruiz/Downloads/colors.sublime-workspace",
+		"/C/Users/Ruiz/Downloads/ramona.txt",
+		"/C/Users/Ruiz/multio/select_and_threads.py",
+		"/C/Users/Ruiz/multio/test_serializer.py",
+		"/C/Users/Ruiz/multio/kernel.py",
+		"/C/Program Files/WindowsApps/Microsoft.WindowsTerminal_1.1.2021.0_x64__8wekyb3d8bbwe/defaults.json",
+		"/C/Users/Ruiz/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json",
+		"/C/Users/Ruiz/AppData/Roaming/Sublime Text 3/Packages/sublack/sublack.sublime-settings",
+		"/C/Users/Ruiz/multio/requirements.txt",
+		"/C/Users/Ruiz/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/C/Users/Ruiz/multio/multio_01.py",
+		"/C/Users/Ruiz/twitch_extension/ideas.md",
+		"/C/Users/Ruiz/twitch_extension/README.md",
+		"/C/Users/Ruiz/name/name.py",
+		"/C/Users/Ruiz/name/setup.py",
+		"/C/Users/Ruiz/name/_module.py",
+		"/C/Users/Ruiz/name/_library/_inner.py",
+		"/C/Users/Ruiz/name/bench.txt",
+		"/C/Users/Ruiz/numset/requirements.txt",
+		"/C/Users/Ruiz/numset/test_numset.py",
+		"/C/Users/Ruiz/name/out/name.pyi",
+		"/C/Users/Ruiz/name/requeriments.txt",
+		"/C/Users/Ruiz/name/temp.diff",
+		"/C/Users/Ruiz/name/benchmark.py",
+		"/C/Users/Ruiz/name/README.rst",
+		"/C/Users/Ruiz/name/README.md",
+		"/C/Users/Ruiz/name/test_name.py",
+		"/C/Users/Ruiz/name/.gitignore",
+		"/C/Users/Ruiz/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Users/Ruiz/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Ruiz/numset/tox.ini",
+		"/C/Users/Ruiz/numset/README.md",
+		"/C/Users/Ruiz/python-xlib/Xlib/protocol/rq.py",
+		"/C/Users/Ruiz/python-xlib/Xlib/protocol/request.py",
+		"/C/Users/Ruiz/genapi/identify.py",
+		"/C/Users/Ruiz/genapi/test_identify.py",
+		"/C/Users/Ruiz/genapi/README.md",
+		"/C/Users/Ruiz/genapi/requirements.txt",
+		"/C/Users/Ruiz/numset/constratinst_bytecode.txt",
+		"/C/Users/Ruiz/tksort/widget.py",
+		"/C/Users/Ruiz/tksort/sound.py",
+		"/C/Users/Ruiz/tksort/algorithm.py",
+		"/C/Users/Ruiz/tksort/temp.diff",
+		"/C/Users/Ruiz/AppData/Local/Programs/Python/Python38/lib/site-packages/sqlalchemy/orm/__init__.py",
+		"/C/Users/Ruiz/AppData/Local/Programs/Python/Python38/lib/site-packages/sqlalchemy/util/langhelpers.py",
+		"/C/Users/Ruiz/fastapitutor/database.py",
+		"/C/Users/Ruiz/fastapitutor/requirements.txt",
+		"/C/Users/Ruiz/fastapitutor/__init__.py",
+		"/C/Users/Ruiz/fastapitutor/schemas.py",
+		"/C/Users/Ruiz/fastapitutor/models.py",
+		"/C/Users/Ruiz/fastapitutor/crud.py",
+		"/C/Users/Ruiz/fastapitutor/main.py",
+		"/C/Users/Ruiz/numset/test_expression.py",
+		"/C/Users/Ruiz/numset/test_split.py",
+		"/C/Users/Ruiz/numset/split.py",
+		"/C/Users/Ruiz/numset/assumptions.md",
+		"/C/Users/Ruiz/numset/test_constraints.py",
+		"/C/Users/Ruiz/numset/dis_all.py",
+		"/C/Users/Ruiz/numset/generate_options_2.py",
+		"/C/Users/Ruiz/numset/bytecode-3.8.md",
+		"/C/Users/Ruiz/AppData/Roaming/Sublime Text 3/Packages/User/AlanCristhianDarkUbuntu.json",
+		"/C/Users/Ruiz/AppData/Roaming/Sublime Text 3/Packages/User/AlanCristhianDark.json",
+		"/C/Users/Ruiz/numset/.vimrc",
+		"/C/Users/Ruiz/AppData/Roaming/Sublime Text 3/Packages/User/Terminus/Terminus.hidden-color-scheme",
+		"/C/Users/Ruiz/AppData/Roaming/Sublime Text 3/Packages/User/Terminus.sublime-settings",
+		"/C/Users/Ruiz/Downloads/Terminus.hidden-color-scheme",
+		"/C/Users/Ruiz/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Ruiz/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/Ruiz/numset/edge.py",
+		"/C/Users/Ruiz/numset/generate_options.py",
+		"/C/Users/Ruiz/numset/numset.py",
+		"/C/Users/Ruiz/AppData/Roaming/Sublime Text 3/Packages/User/sublime_jedi.sublime-settings",
+		"/C/Users/Ruiz/Documents/peliculas.txt",
+		"/C/Users/Ruiz/numset/test_api.py",
+		"/C/Users/Ruiz/numset/api.py",
+		"/C/Users/Ruiz/Documents/vi boilerplate/.vi_help",
+		"/C/Users/Ruiz/Documents/vi boilerplate/.unix_help",
+		"/C/Users/Ruiz/Documents/vi boilerplate/.exrc",
+		"/C/Users/Ruiz/pyskell/mypy.ini",
+		"/C/Users/Ruiz/pyskell/setup.cfg",
+		"/C/Users/Ruiz/pyskell/tox.ini",
+		"/C/Users/Ruiz/multio/server.py",
+		"/C/Users/Ruiz/multio/multio_02.py",
+		"/C/Users/Ruiz/multio/multio_00.py",
+		"/C/Users/Ruiz/multio/multio.py",
+		"/C/Users/Ruiz/multio/udp_client.py",
+		"/C/Users/Ruiz/multio/udp_kernel.py",
+		"/C/Users/Ruiz/multio/test_multio.py",
+		"/C/Users/Ruiz/multio/result.txt",
+		"/C/Users/Ruiz/multio/templates.py",
+		"/C/Users/Ruiz/multio/client.py",
+		"/C/Users/Ruiz/curio/examples/bench/uvecho.py",
+		"/C/Users/Ruiz/multio/client_benchmark.py",
+		"/C/Users/Ruiz/multio/signal_example.py",
+		"/C/Users/Ruiz/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Ruiz/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Ruiz/multio/multio_0.py",
+		"/C/Users/Ruiz/multio/cancel_demo.py",
+		"/C/Users/Ruiz/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/Default.sublime-commands",
+		"/C/Users/Ruiz/AppData/Roaming/Sublime Text 3/Packages/KiteSublime/KiteSublime.sublime-commands",
+		"/C/Users/Ruiz/multio/multioecho.py",
+		"/C/Users/Ruiz/multio/threadecho.py",
+		"/C/Users/Ruiz/csqlite/multi.py",
+		"/C/Users/Ruiz/curio/examples/bench/client.c",
+		"/C/Users/Ruiz/curio/examples/bench/threadecho.py",
+		"/C/Users/Ruiz/twitch_extension/requeriments.txt",
+		"/C/Users/Ruiz/twitch_extension/minimal_mypy.py",
+		"/C/Users/Ruiz/twitch_extension/main_2.py",
+		"/C/Users/Ruiz/chain/chain.py",
+		"/C/Users/Ruiz/eiffel/test_eiffel_with.py",
+		"/C/Users/Ruiz/eiffel/README_WITH.md",
+		"/C/Users/Ruiz/eiffel/eiffel_with.py",
+		"/C/Users/Ruiz/eiffel/README.md",
+		"/C/Users/Ruiz/eiffel/README_FUNCTIONAL.md",
+		"/C/Users/Ruiz/twitch_extension/counterintuitive.md",
+		"/C/Users/Ruiz/twitch_extension/minimal_test.py",
+		"/C/Users/Ruiz/csqlite3/runtests.py",
+		"/C/Users/Ruiz/csqlite/tools.py",
+		"/C/Users/Ruiz/csqlite/test_server.py",
+		"/C/Users/Ruiz/csqlite/test_tools.py",
+		"/C/Users/Ruiz/csqlite/__main__.py",
+		"/C/Users/Ruiz/csqlite/client.py",
+		"/C/Users/Ruiz/csqlite/test_client.py",
+		"/C/Users/Ruiz/twitch_extension/main_12.py",
+		"/C/Users/Ruiz/twitch_extension/main_11.py"
+	],
+	"find":
+	{
+		"height": 45.8507462687
+	},
+	"find_in_files":
+	{
+		"height": 155.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 35,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"show_definitions": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 45.8507462687
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.Command-line":
+	{
+		"height": 151.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 151.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 151.0
+	},
+	"output.Terminus":
+	{
+		"height": 151.0
+	},
+	"output.exec":
+	{
+		"height": 133.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pyarray.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.059701493,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Ruiz\\colors\\colors.sublime-project"
+			]
+		],
+		"width": 379.701492537
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

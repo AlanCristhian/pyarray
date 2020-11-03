@@ -1,2 +1,2 @@
 # pyarray
-Better builtin array apy
+Better builtin array API
