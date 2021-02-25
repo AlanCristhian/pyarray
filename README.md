@@ -1,15 +1,15 @@
 # pyarray
 Better builtin array API
 
-| array                    | pyarray               |
-| ------------------------ | --------------------- |
-| `array("b"[, iterable])` | `Int8([iterable])`    |
-| `array("B"[, iterable])` | `UInt8([iterable])`   |
-| `array("h"[, iterable])` | `Int16([iterable])`   |
-| `array("H"[, iterable])` | `UInt16([iterable])`  |
-| `array("l"[, iterable])` | `Int32([iterable])`   |
-| `array("L"[, iterable])` | `UInt32([iterable])`  |
-| `array("q"[, iterable])` | `Int64([iterable])`   |
-| `array("Q"[, iterable])` | `UInt64([iterable])`  |
-| `array("f"[, iterable])` | `Float32([iterable])` |
-| `array("d"[, iterable])` | `Float64([iterable])` |
+| builtin.array            | pyarray               | pyarray          |
+| ------------------------ | --------------------- | ---------------- |
+| `array("b"[, iterable])` | `Int8([iterable])`    | `Int8(*args)`    |
+| `array("B"[, iterable])` | `UInt8([iterable])`   | `UInt8(*args)`   |
+| `array("h"[, iterable])` | `Int16([iterable])`   | `Int16(*args)`   |
+| `array("H"[, iterable])` | `UInt16([iterable])`  | `UInt16(*args)`  |
+| `array("l"[, iterable])` | `Int32([iterable])`   | `Int32(*args)`   |
+| `array("L"[, iterable])` | `UInt32([iterable])`  | `UInt32(*args)`  |
+| `array("q"[, iterable])` | `Int64([iterable])`   | `Int64(*args)`   |
+| `array("Q"[, iterable])` | `UInt64([iterable])`  | `UInt64(*args)`  |
+| `array("f"[, iterable])` | `Float32([iterable])` | `Float32(*args)` |
+| `array("d"[, iterable])` | `Float64([iterable])` | `Float64(*args)` |
